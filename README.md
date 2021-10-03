@@ -4,10 +4,10 @@ This is repository where I store my basic notes, tasks in typescript language.
 
 <h1 align="center">
   <br>
-	<a href="https://ibb.co/VJnY5fd"><img src="https://i.ibb.co/VJnY5fd/iwu624zqqotvo05frkqgtk1wqjq.jpg" alt="iwu624zqqotvo05frkqgtk1wqjq" border="0"></a>
+	<img src="https://i.ibb.co/5Gphwbd/iwu624zqqotvo05frkqgtk1wqjq.jpg" alt="iwu624zqqotvo05frkqgtk1wqjq" border="0">
   <br>
   <br>
-	<a href="https://ibb.co/L5H52t3"><img src="https://i.ibb.co/L5H52t3/1-eur-Mn0omz2-KIej-NIV06-Vsg.png" alt="1-eur-Mn0omz2-KIej-NIV06-Vsg" border="0"></a>
+	<img src="https://i.ibb.co/L5H52t3/1-eur-Mn0omz2-KIej-NIV06-Vsg.png" alt="1-eur-Mn0omz2-KIej-NIV06-Vsg" border="0">
   <br>
 </h1>
 
