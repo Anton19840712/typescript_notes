@@ -7,7 +7,7 @@ This is repository where I store my basic notes, tasks in typescript language.
 	<img src="https://i.ibb.co/5Gphwbd/iwu624zqqotvo05frkqgtk1wqjq.jpg" alt="iwu624zqqotvo05frkqgtk1wqjq" border="0">
   <br>
   <br>
-	<img src="https://i.ibb.co/L5H52t3/1-eur-Mn0omz2-KIej-NIV06-Vsg.png" alt="1-eur-Mn0omz2-KIej-NIV06-Vsg" border="0">
+	<img src="https://i.ibb.co/BNFNSZ9/1-eur-Mn0omz2-KIej-NIV06-Vsg.png" alt="1-eur-Mn0omz2-KIej-NIV06-Vsg" border="0">
   <br>
 </h1>
 
