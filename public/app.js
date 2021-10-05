@@ -31,8 +31,11 @@ const list = new ListTemplate(ul);
 form.addEventListener("submit", (e) => {
     // here we listen to if our button was pushed.
     e.preventDefault();
+    let values;
+    values = [tofrom.value, details.value, amount.valueAsNumber];
     let doc;
     if (type.value === "invoice") {
+        //doc = new Invoice(...values) // we can use tuples here like this:
         doc = new Invoice(tofrom.value, details.value, amount.valueAsNumber);
     }
     else {
