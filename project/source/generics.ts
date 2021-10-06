@@ -1,5 +1,15 @@
 //GENERICS
 
+class Observable<T> {
+	constructor(public value: T) {}
+}
+
+let x: Observable<number>
+let y: Observable<Person>
+let z = new Observable(23)
+
+//==================================
+
 const addUID = (obj: object) => {
 	let uid = Math.floor(Math.random() * 100)
 	return { ...obj, uid }

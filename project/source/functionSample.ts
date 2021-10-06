@@ -20,3 +20,12 @@ const minus = (a: number, b: number): number => {
 }
 
 let result = minus(10, 7)
+
+
+//another, more clear sample:
+//in - numbers, out - string 
+function pow(x:number, y:number):string{
+	return Math.pow(x,y).toString();
+}
+
+pow(5,10)
