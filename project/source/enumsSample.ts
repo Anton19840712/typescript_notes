@@ -1,3 +1,11 @@
+enum SocialMedia {
+	VK = "VK",
+	FACEBOOK = "FACEBOOK",
+	INSTAGRAM = "INSTAGRAM",
+}
+
+const social = SocialMedia.FACEBOOK //we can get string result at once
+
 enum ResourceType {
 	BOOK,
 	AUTHOR,

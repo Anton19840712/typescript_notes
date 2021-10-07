@@ -1,16 +1,16 @@
 //inheritance
-interface Person {
+interface Personality {
 	first: string
 	last: string
 	[key: string]: any
 }
 
-const person: Person = {
+const person: Personality = {
 	first: "Antonio",
 	last: "Gridushko",
 }
 
-const person2: Person = {
+const person2: Personality = {
 	first: "Antonio",
 	last: "Gridushko",
 	fast: true,

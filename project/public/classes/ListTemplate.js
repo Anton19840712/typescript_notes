@@ -1,5 +1,6 @@
 //here we create some base class, that consists of constructor and some methods:
 export class ListTemplate {
+    container;
     constructor(container) {
         this.container = container;
     } //we always need such a brackets for constructor's creation.

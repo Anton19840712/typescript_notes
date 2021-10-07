@@ -1,4 +1,11 @@
 "use strict";
+var SocialMedia;
+(function (SocialMedia) {
+    SocialMedia["VK"] = "VK";
+    SocialMedia["FACEBOOK"] = "FACEBOOK";
+    SocialMedia["INSTAGRAM"] = "INSTAGRAM";
+})(SocialMedia || (SocialMedia = {}));
+const social = SocialMedia.FACEBOOK; //we can get string result at once
 var ResourceType;
 (function (ResourceType) {
     ResourceType[ResourceType["BOOK"] = 0] = "BOOK";

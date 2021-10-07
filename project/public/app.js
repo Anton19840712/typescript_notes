@@ -1,7 +1,6 @@
 //-------------------------------------------
 import { Invoice } from "./classes/Invoice.js";
 import { Payment } from "./classes/Payment.js";
-import { ListTemplate } from "./classes/ListTemplate.js";
 let docOne;
 let docTwo;
 docOne = new Invoice("antonio", "web work", 250);
@@ -27,7 +26,7 @@ const details = document.querySelector("#details");
 const amount = document.querySelector("#amount");
 //list tamplate instance
 const ul = document.querySelector("ul");
-const list = new ListTemplate(ul);
+//const list = new ListTemplate(ul)
 form.addEventListener("submit", (e) => {
     // here we listen to if our button was pushed.
     e.preventDefault();
@@ -41,5 +40,5 @@ form.addEventListener("submit", (e) => {
     else {
         doc = new Payment(tofrom.value, details.value, amount.valueAsNumber);
     }
-    list.render(doc, type.value, "end"); //here we ask browser to render a part of UI.
+    //list.render(doc, type.value, "end") //here we ask browser to render a part of UI.
 });

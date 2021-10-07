@@ -1,4 +1,17 @@
 "use strict";
+const array = [];
+array.push(1);
+array.push("23");
+array.push(false);
+const myarray2 = [];
+myarray2.push(1);
+myarray2.push("23");
+myarray2.push(false);
+// Impossible
+// const arrayMe: Person[] = []
+// arrayMe.push(1)
+// arrayMe.push("23")
+// arrayMe.push(false)
 let names = ["luigi", "mario", "yoshi"]; //here we declared one-typed array/as a specific typed array
 // and if we declare one-typed variables once, then we can not change them in future...
 names.push("toad");

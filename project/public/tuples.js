@@ -7,6 +7,8 @@ arr = [30, false, "irina"];
 let tup = ["irina", 25, true];
 tup[0] = "ken";
 tup[1] = 30;
-// let student : [string, number]
-// student = [234235, 'ken']
-// student = ['marina', 2342556]
+//SAMPLE USAGE
+// let values: [string, string, number]
+// values = [tofrom.value, details.value, amount.valueAsNumber]
+// doc = new Invoice(tofrom.value, details.value, amount.valueAsNumber)
+// doc = new Invoice(...values) -- use tuple here...
